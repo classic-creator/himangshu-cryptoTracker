@@ -258,7 +258,7 @@ export default function CoinsTable() {
                     return (
                       <TableRow
                         key={coin.id}
-                        onClick={() => history.push(`/coins/${coin.id}`)}
+                       
                         className={`${classes.row} ${isHighlighted ? classes.highlighted : ""}`}
                       >
                         <TableCell
