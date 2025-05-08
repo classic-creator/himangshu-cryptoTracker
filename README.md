@@ -10,3 +10,4 @@ start with
 npm i,
 npm start
 LIVE DEMO : https://cryptohima.netlify.app/
+THIS WEBSITE  UPDATE THE PRICE LIST IN REAL TIME AND WHEN PRICE UPDATE HAVE A EFFECT IN UPDATED ROW
